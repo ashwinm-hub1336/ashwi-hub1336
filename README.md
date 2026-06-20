@@ -196,16 +196,6 @@ int main() {
 
 ---
 
-## 📚 Currently Learning
-
-```
-🌐 Digital Marketing  →  SEO, Social Media Strategy, Google Ads
-🐍 Python             →  Data Structures, Automation, Scripting
-📊 MS Excel           →  Formulas, Pivot Tables, Data Analysis
-☁️ Cloud IoT          →  MQTT, AWS IoT / Firebase, Edge Computing
-🔌 Embedded Systems   →  RTOS, Advanced ESP32, Sensor Fusion
-```
-
 ---
 
 <div align="center">
